@@ -1,4 +1,4 @@
-module example.com/solution
+module golang-united-school-homework-1/solution
 
 go 1.17
 
