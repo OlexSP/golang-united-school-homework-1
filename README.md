@@ -15,4 +15,5 @@ You might code in any IDEA or TextEditor for the development, to sumbit the code
 Good Luck!
 
 
-// Some new lines for a test
+// Some new lines for a test.
+// More new lines as at the file. 
