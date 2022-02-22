@@ -1,1 +1,2 @@
 Some new fitchures
+The third line from fitcha branch for the conflict test
