@@ -1,1 +1,2 @@
 Some new fitchures
+Second line for the conflict test.
