@@ -1,2 +1,3 @@
 Some new fitchures
 Second line for the conflict test.
+The third line from fitcha branch for the conflict test
